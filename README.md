@@ -15,5 +15,6 @@ Please take a look at the following to better understand the architectures menti
 
 
 # Future scope
-Based on the predicted mask, may try to find the relative area and classify the region as per requirements. Still looking into it, and may expand it for thermal images also.
+Based on the predicted mask, may try to find the relative area and classify the region as per requirements. Still looking into it, and may expand it for thermal images also. An interactive interface will be a great addition, nonetheless.
+
 
