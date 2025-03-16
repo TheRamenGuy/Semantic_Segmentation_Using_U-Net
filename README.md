@@ -1,8 +1,8 @@
 # Semantic_Segmentation_Using_U-Net
 
-In this project, we are implementing semantic segmentation of an aerial view dataset captured by a drone using U-Net model whose initial weights are pre-trained on the resnet models.
+In this project, I am implementing semantic segmentation of an aerial view dataset captured by a drone using U-Net model whose initial weights are pre-trained on the resnet models.
 
-Particularly, we are taking two approaches here - 
+Particularly, two approaches are taken here - 
 1. Resizing the images and then using Resnet50 for providing initial weights for U-Net.
 2. Creating patches first, then resizing the images and then using Resnet34 for providing initial weights for U-Net.
 
