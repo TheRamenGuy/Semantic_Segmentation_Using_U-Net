@@ -14,6 +14,6 @@ Please take a look at the following to better understand the architectures menti
 2. U-Net - https://www.youtube.com/watch?v=GAYJ81M58y8&ab_channel=DigitalSreeni
 
 
-##Future scope
+# Future scope
 Based on the predicted mask, may try to find the relative area and classify the region as per requirements. Still looking into it, and may expand it for thermal images also.
 
